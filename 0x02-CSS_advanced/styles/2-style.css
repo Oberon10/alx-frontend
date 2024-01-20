@@ -1,0 +1,24 @@
+/* Set the text color of the entire document body to a deep charcoal (#161616) */
+body {
+    color: #161616;
+}
+
+/* Customize the text color of all hyperlinks to match the overall theme (#161616) */
+a {
+    color: #161616;
+}
+
+/* Hide visually-hidden elements for improved accessibility */
+.visually-hidden {
+    display: none;
+}
+
+/* Accentuate elements with the card-category class using a bold crimson shade (#D73953) */
+.card-category {
+    color: #D73953;
+}
+
+/* Highlight elements with the section-tagline class with a vibrant crimson hue (#D73953) */
+.section-tagline {
+    color: #D73953;
+}
